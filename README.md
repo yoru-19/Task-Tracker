@@ -13,4 +13,4 @@ Sample solutions for the challenge from [roadmap.sh](https://roadmap.sh/projects
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/task-tracker.git
+   git clone https://github.com/yoru-19/task-tracker.git
